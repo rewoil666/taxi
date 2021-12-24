@@ -1,0 +1,19 @@
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\bin\Debug\Сеть такси.exe.config
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\bin\Debug\Сеть такси.exe
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\bin\Debug\Сеть такси.pdb
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть такси.csprojAssemblyReference.cache
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть_такси.Properties.Resources.resources
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть такси.csproj.GenerateResource.cache
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть такси.csproj.CoreCompileInputs.cache
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть такси.exe
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть такси.pdb
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть_такси.Glav.resources
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть_такси.Zakaz.resources
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть_такси.Zvonok.resources
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\bin\Debug\MySql.Data.dll
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\bin\Debug\Google.Protobuf.dll
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\bin\Debug\MySql.Data.xml
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть такси.csproj.CopyComplete
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть_такси.Конечный_заказ.resources
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть_такси.Авторизация.resources
+C:\Users\212-10\source\repos\Сеть такси\Сеть такси\obj\Debug\Сеть_такси.сотрудники.resources
